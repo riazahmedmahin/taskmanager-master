@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/task-manager-app-main/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/task-manager-app-main/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task-manager-app-main/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/task-manager-app-main/android/app/src/profile/profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task-manager-app-main/task-manager-app-main.iml" filepath="$PROJECT_DIR$/task-manager-app-main/task-manager-app-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmamagement.iml" filepath="$PROJECT_DIR$/taskmamagement.iml" />
+    </modules>
+  </component>
+</project>
